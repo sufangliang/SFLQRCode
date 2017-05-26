@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E9972CD58565D7559B1ECBF46A9FE9B47A2244D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5E9972CD58565D7559B1ECBF46A9FE9B47A2244D" : 9223372036854775807,
+    "75ED488CA81964B8517D45AA6125CA45F14BF389" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C055CADD-06AC-4DF1-9C3F-D03CA5EE2FC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5E9972CD58565D7559B1ECBF46A9FE9B47A2244D" : "SFLQRCodeExample\/",
+    "75ED488CA81964B8517D45AA6125CA45F14BF389" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SFLQRCodeExample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SFLQRCodeExample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sufangliang\/SFLQRCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E9972CD58565D7559B1ECBF46A9FE9B47A2244D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sufangliang\/SFLQRCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75ED488CA81964B8517D45AA6125CA45F14BF389"
+    }
+  ]
+}
